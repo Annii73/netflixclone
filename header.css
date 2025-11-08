@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    color: white;
+}
+.header_container{
+    display: flex;
+    border-style: solid;
+    border-color: black;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    width: 100px;
+}
+.main_nav{
+    list-style: none;
+    border-style: solid;
+    border-color: black;
+    padding-left: 0px;
+    display: flex;
+    gap: 20px;
+    width: 600px;
+justify-self: space-around;
+}
+.second_nav {
+    list-style: none;
+    border-style: solid;
+    border-color: black;
+    padding-left: 0px;
+    display: flex;
+    width: 300px;
+    gap:20px;
+    justify-content: space-around;
+}

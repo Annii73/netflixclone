@@ -1,0 +1,29 @@
+.box{
+    display: flex;
+    border-color: black;
+    border-style: solid;
+    justify-content: center;
+    gap: 10px;
+
+}
+.card{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+}
+.c-1{
+    background-color: pink;
+}
+.c-2{
+    background-color: yellowgreen;
+}
+.c-3{
+    background-color: yellow;
+}
+.c-4{
+    background-color: orange;
+}
+.c-5{
+    background-color: violet;
+}
